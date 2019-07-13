@@ -1,6 +1,5 @@
 // Program to Calculate Complexity
-// Supriya Agarwal
-// 16uec110
+
 
 import java.util.*;
 import java.lang.*;
